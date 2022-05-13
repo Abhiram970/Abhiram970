@@ -1,5 +1,5 @@
 <img align='center' src="banner.jpg" width = "auto">
-<br><br>
+<br>
 <h1 align ='center'> 👋 Hello there , Welcome :) </h1>
 
 <p align="center">
