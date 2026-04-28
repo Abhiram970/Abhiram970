@@ -1,48 +1,70 @@
 <img align='center' src="banner.jpg" width = "auto">
 <br>
-<h1 align ='center'> 👋 Hello there , Welcome :) </h1>
+
+<h3 align="center">😼 Smart systems, sharp thinking, and a profile picture with attitude.</h3>
 
 <p align="center">
-<h3 align='center'> Hope you're doing fine today , remember to live life to the fullest </h3>
+  <img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strategy%20%26%20Analytics-1d4ed8?style=for-the-badge&logo=googledocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-0f766e?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business%20x%20Tech-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
-<pre>
+---
 
-1. Looking to work with AI and ML, Web Programming in particular 
-2. If I'm not responding to any of your PRs or issues,
-   feel free to remind me via <a href="mailto:abhiramp428@gmail.com">email</a>.<br>
-    Pronouns: he | him
-    Code: Python, C, C++, HTML, CSS, JavaScript , Django, Java
-    Trying to make a difference :)
-</pre>
+## 👨‍💻 About Me
+
+I work at the intersection of strategy, analytics, and AI engineering.  
+I like turning messy business questions into clean systems, useful workflows, and intelligent products.  
+My style is simple: think clearly, build intentionally, and make things actually useful.
+
+## 🧠 How I Think
+
+- Strategy-first, execution-heavy.
+- Comfortable in ambiguity, but obsessed with clarity.
+- I enjoy solving problems that sit between business goals and technical systems.
+- I care about structure, speed, communication, and outcomes.
+- Equal respect for good ideas, good code, and good decision-making.
+
+## ⚙️ What I Bring
+
+- AI/ML mindset with strong engineering curiosity
+- Analytical thinking grounded in business context
+- Experience working across technical and non-technical teams
+- Strong foundation in data, automation, and scalable problem solving
+- A habit of asking better questions before jumping to answers
+
+## 🧰 Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=orange" />
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Snowflake-111827?style=flat-square&logo=snowflake&logoColor=skyblue" />
+  <img src="https://img.shields.io/badge/Salesforce-111827?style=flat-square&logo=salesforce&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=flat-square&logo=powerbi&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-111827?style=flat-square&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=flat-square&logo=keras&logoColor=red" />
 </p>
-<br>
-<img align='left' src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width = "100">&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;[![Linkedin: PV Abhiram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pv-abhiram-0094aa1a0/)
-[![Github: PV Abhiram](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhiram970)
-[![Kaggle ](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pvabhiram) <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Abhiram970"/></a>
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Abhiram970?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<br>
-<h3 align='center'>  More links coming soon :)  </h3>
-<br>
-<p align="center">
-  <a href="https://github.com/Abhiram970"><img src="https://github-readme-stats.vercel.app/api?username=Abhiram970&hide_border=true&show_icons=true" alt="PV Abhiram's github stats"></a>
+## 🎯 A Few Fun Facts
+
+- I like elegant systems, weird ideas, and clean execution.
+- If a workflow is repetitive, I immediately want to automate it.
+- I take building seriously, but I prefer the profile vibe to stay fun.
+- Yes, the cat with sunglasses is part of the brand now.
+
+## 🌐 Connect
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<br>
-<h2>📊 Weekly development breakdown </h2>
 
+---
 
-```text
-Python         7 hrs 13 mins       █████████░     82.59%
-JavaScript     55 mins             █░░░░░░░░░     10.58%
-HTML           12 mins             ░░░░░░░░░░     2.3%
-```
-<br>
-
-<h1>Streak Statistics </h1>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhiram970&theme=tokyonight)](https://git.io/streak-stats)
-
+<div align="center">
+  <sub>Built with curiosity, caffeine, and a suspicious number of open tabs.</sub>
+</div>
